@@ -25,7 +25,7 @@ I --> Z
 ### Pseudocódigo
 ```
 1  ALGORITMO verifica_par_impar  
-2  DECLARE numero, resto NUMERICO ESCREBA "Digite um número: "
+2  DECLARE numero, resto NUMERICO ESCREVA "Digite um número: "
 3  LEIA numero
 4  SE numero >= 0 ENTAO
 5      resto <- numero % 2
